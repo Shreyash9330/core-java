@@ -1,0 +1,29 @@
+package basic;
+
+public class Book {
+
+	String title;
+	String author;
+	int  price;
+	
+		Book(String tit,String au ,int pr )
+		{
+			 title = tit;
+			 author= au;
+		     price = pr;
+		}
+		
+		void displays()
+		{
+			System.out.print("Title of Book is :"+title+" Author of the Book is a :"+author+" Price Of The Book is a :"+price);
+		}
+	
+	
+	public static void main(String[] args) {
+		Book b1 =new Book("Antha Asthi Prambha","Vaibhav Dhus",210);
+		
+		b1.displays();
+		
+	}
+
+}
