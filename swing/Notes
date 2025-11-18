@@ -1,0 +1,50 @@
+Swing – Java 
+
+Swing is a part of Java used to create GUI (Graphical User Interface) applications.
+It provides a rich set of lightweight, flexible, and platform-independent components for building desktop applications.
+
+Swing is part of Java Foundation Classes (JFC) and is built on top of AWT, but provides more powerful and customizable components.
+
+⭐ 1. Features of Swing
+
+Lightweight Components → Do not depend on OS
+
+Platform Independent → Works the same on Windows, Mac, Linux
+
+Rich Set of Components → Buttons, text fields, tables, menus, dialogs
+
+Highly Customizable → Colors, fonts, themes can be changed
+
+Supports MVC Architecture
+
+Event-Driven Programming → Actions based on user input
+
+⭐ 2. Common Swing Components
+Component	Description
+JFrame	Main window
+JButton	Button
+JLabel	Display text/image
+JTextField	Single-line input box
+JTextArea	Multi-line input
+JCheckBox	Checkbox option
+JRadioButton	Radio button
+JTable	Table for data
+JPanel	Container for organizing components
+⭐ 3. Basic Swing Program Structure
+
+A Swing program generally includes:
+
+Creating a JFrame
+
+Adding components like JButton, JLabel, etc.
+
+Setting layout
+
+Handling events using ActionListener
+
+⭐ 4. Example Structure
+JFrame frame = new JFrame("My App");
+frame.setSize(400, 400);
+frame.setLayout(null);
+frame.setVisible(true);
+
