@@ -1,3 +1,4 @@
+
 package basic;
 
 public class Static {
@@ -7,4 +8,5 @@ public class Static {
 			
 		}
 }
+
  
