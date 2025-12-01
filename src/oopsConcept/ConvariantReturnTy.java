@@ -7,7 +7,6 @@ class Shape
 		System.out.println("In draw () Of shape Class ");
 		return new Shape();
 	}
-	
 }
 
 class Circle extends Shape
@@ -26,3 +25,4 @@ public class ConvariantReturnTy {
 	}
 
 }
+
