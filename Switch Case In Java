@@ -12,7 +12,6 @@ public class Switchcase {
 		String ch;
 		ch=sc.next();
 		
-	
 		switch(ch)
 		{
 			case "Add":
