@@ -37,8 +37,6 @@ class Car
 	}
 	
 }
-
-
 public class Encapsulation1 {
 
 	public static void main(String[] args) {
@@ -53,3 +51,4 @@ public class Encapsulation1 {
 	}
 
 }
+
