@@ -1,7 +1,6 @@
 package basic;
 
 public class Pattern {
-
 	public static void main(String[] args) {
 		int i,j;
 		
@@ -17,3 +16,4 @@ public class Pattern {
 	}
 
 }
+
