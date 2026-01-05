@@ -1,7 +1,11 @@
 
 # 🌟 Java Collections Framework – Core Java
 
-A complete practical guide to mastering the **Java Collections Framework** with real examples.
+The Java Collections Framework is a powerful architecture for storing, managing, and manipulating groups of objects.
+It provides ready-made data structures such as List, Set, and Map to handle data efficiently.
+Using collections improves performance, code readability, and scalability in real-world Java applications.
+This module focuses on practical examples to build a strong Core Java foundation.
+
 
 ---
 
