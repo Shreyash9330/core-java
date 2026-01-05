@@ -18,16 +18,25 @@ This folder contains clean and simple programs to understand how Java collection
 
 ## 🧱 Collection Framework Structure
 
-Iterable
-└── Collection
-├── List → ArrayList, LinkedList, Vector, Stack
-├── Set → HashSet, TreeSet
-└── Queue → PriorityQueue
+Iterable  
+ └── Collection  
+      ├── List  
+      │     ├── ArrayList  
+      │     ├── LinkedList  
+      │     ├── Vector  
+      │     └── Stack  
+      │  
+      ├── Set  
+      │     ├── HashSet  
+      │     └── TreeSet  
+      │  
+      └── Queue  
+            └── PriorityQueue  
 
-Map (Separate Hierarchy)
-├── HashMap
-├── TreeMap
-└── LinkedHashMap
+Map (Separate Hierarchy)  
+ ├── HashMap  
+ ├── TreeMap  
+ └── LinkedHashMap  
 
 ---
 
